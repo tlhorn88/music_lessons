@@ -1,0 +1,4 @@
+.blurb {
+    grid-area: 1 / 1 / 2 / 4;
+    background-color: brown;
+}
